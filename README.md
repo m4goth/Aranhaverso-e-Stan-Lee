@@ -1,5 +1,6 @@
 # Aranhaverso-e-Stan-Lee
 Uma sinopse de aranhaverso, com uma mensagem :)
+Com HTML e CSS
 #_________________________________________________
 <!DOCTYPE html>
 <html lang="pt-br">
