@@ -2,7 +2,7 @@
 Uma sinopse de aranhaverso, com uma mensagem :)
 Com HTML e CSS
 #_________________________________________________
-<h1> 🪐 Olá, mundo! 🪐 </h1>
+<h1 text-align="center";> 🪐 Olá, mundo! 🪐 </h1>
     <p> Após ser atingido por uma teia radioativa, <em> <strong> Miles Morales </strong> </em>, um jovem do Brooklyn, se torna o <strong>Homem-Aranha</strong>, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras <em> versões do Homem-Aranha. 🕸</em> </p>
 <h1> Uma pessoa pode fazer uma grande diferença, é o que eu acho. </h1>
     <p> -Stan Lee </p>
